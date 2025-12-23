@@ -54,14 +54,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taqi-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Taqi-Dev&theme=tokyonight" alt="GitHub Stats Summary" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taqi-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taqi-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook,html" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Taqi-Dev&theme=tokyonight" alt="Profile Summary" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Taqi-Dev&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
+</div>
 
 ## 🤝 Connect With Me
 
