@@ -56,17 +56,11 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taqi-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taqi-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Taqi-Dev&theme=tokyonight" alt="GitHub Stats Summary" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Taqi-Dev&theme=tokyonight" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Taqi-Dev&theme=tokyonight" alt="Repos per Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Taqi-Dev&theme=tokyonight" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Taqi-Dev&theme=tokyonight&utcOffset=5" alt="Productive Time" />
 </p>
 
 ## 🤝 Connect With Me
