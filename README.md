@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Taqi Haider 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taqihaider110&label=Profile%20views&color=0e75b6&style=flat" alt="taqihaider110" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Taqi-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Taqi-Dev" />
 </p>
 
 ## 👨‍💻 About Me
@@ -9,11 +9,14 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
 
 - 🎓 **Computer Science & IT** graduate from **NED University** (CGPA: 3.312/4.00)
-- 💼 **Associate Software Engineer** at **KoderLabs** (Mar 2025 - Oct 2025)
-- 🔧 Previously **.NET Intern** at **QBS Co.** (Dec 2024 - Mar 2025)
-- 🚀 Currently building **TrackWise** - Smart Personal Finance Management System
-- 💡 Passionate about **backend development**, **clean architecture**, and **scalable systems**
-- 🏆 Solved **240+ problems** on LeetCode
+- 💼 **1 year of professional development experience** as **Associate Software Engineer** with hands-on expertise in **backend development** using **NestJS**, **.NET**, and **microservices architecture**
+- 🚀 Currently building **TrackWise** (Final Year Project) - a **product-focused** personal finance platform that solves real-world problems with AI-driven insights
+- 🌱 **Transitioning towards Full Stack Development** with **React** while strengthening backend expertise
+- 🤖 Exploring **Agentic AI** for enterprise applications and intelligent automation
+- 💡 Passionate about **building products** that deliver value, with focus on **clean architecture**, **scalable systems**, and **user-centric solutions**
+- 📈 Continuous learner - evolved from Python/Flask foundations to mastering NestJS, .NET, microservices, and cloud technologies
+- 🏆 Solved **240+ problems** on LeetCode, demonstrating strong problem-solving skills
+- 🎯 **Future Goal:** Become a well-rounded **Full Stack Engineer** with expertise in **product development** and **AI integration**
 - 📫 Reach me: **taqihaider591@gmail.com**
 
 <br/>
@@ -42,50 +45,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-## 💼 Work Experience
-
-### 🔹 Associate Software Engineer | KoderLabs (Mar 2025 - Oct 2025)
-
-- Developed backend services using **NestJS** and **.NET**, improving code structure and scalability
-- Implemented **multitenant architecture** and optimized database design
-- Integrated **geospatial features** using Google Maps API and PostGIS
-- Implemented real-time functionality with **AWS S3**, **SignalR**, and **Azure Functions**
-- Refactored backend logic and optimized queries for enhanced performance
-
-### 🔹 .NET Intern | QBS Co. (Dec 2024 - Mar 2025)
-
-- Built backend modules for **Ajeeks**, enhancing usability and business workflows
-- Developed **Docker-based microservices** and integrated **gRPC**
-- Implemented **Neo4j recommendations** and applied **CQRS architecture**
-
-## 🚀 Featured Projects
-
-### [TrackWise](https://github.com/taqihaider110) - Smart Personal Finance Management System
-
-**Tech Stack:** NestJS, PostgreSQL, Angular 19, JWT, AI/ML, Azure, Vercel, Render
-
-- Built a full-stack personal finance platform for real-time financial insights
-- Developed scalable backend with **NestJS** and **PostgreSQL** with JWT-secured APIs
-- Implemented **AI-driven categorization** for income/expense descriptions (hosted on HuggingFace)
-- Delivered dynamic dashboards via **Angular 19**
-- Deployed on **Vercel** (frontend) and **Render** (backend) with **Azure PostgreSQL**
-
-### [CourseFlow](https://github.com/taqihaider110) - Smart Course Scheduler
-
-**Tech Stack:** Flask, Python, Greedy & Backtracking Algorithms
-
-- Developed automated course scheduler for conflict-free timetable planning
-- Applied **Greedy and Backtracking algorithms** for optimal classroom allocation
-- Built admin dashboard for efficient scheduling management
-
-### [Stock Management System](https://github.com/taqihaider110)
-
-**Tech Stack:** Python, Flask, MySQL
-
-- Developed web application for real-time inventory, sales, and purchase management
-- Automated stock updates, low-stock alerts, and reporting dashboards
-- Improved operational efficiency through automated inventory control
-
 ## 🏆 Achievements & Competitions
 
 - 🥈 Advanced to **Round 2** of **KODERZ COMBAT**
@@ -96,23 +55,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taqihaider110&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taqi-Dev&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taqihaider110&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taqi-Dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ## 🤝 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/taqih1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taqih1" height="30" width="40" /></a>
-<a href="https://github.com/taqihaider110" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="taqihaider110" height="30" width="40" /></a>
+<a href="https://github.com/Muhammad-Taqi-Dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Muhammad-Taqi-Dev" height="30" width="40" /></a>
 <a href="mailto:taqihaider591@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/taqihaider110">Muhammad Taqi Haider</a></i>
+  <i>⭐️ From <a href="https://github.com/Muhammad-Taqi-Dev">Muhammad Taqi Haider</a></i>
 </p>
