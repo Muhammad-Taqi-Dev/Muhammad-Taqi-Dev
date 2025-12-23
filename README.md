@@ -59,11 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taqi-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taqi-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Muhammad-Taqi-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Connect With Me
