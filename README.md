@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
 
-- 🎓 **Computer Science & IT** graduate from **NED University** (CGPA: 3.312/4.00)
+- 🎓 **Final Year Student** pursuing **Computer Science & IT** at **NED University**
 - 💼 **1 year of professional development experience** as **Associate Software Engineer** with hands-on expertise in **backend development** using **NestJS**, **.NET**, and **microservices architecture**
 - 🚀 Currently building **TrackWise** (Final Year Project) - a **product-focused** personal finance platform that solves real-world problems with AI-driven insights
 - 🌱 **Transitioning towards Full Stack Development** with **React** while strengthening backend expertise
@@ -55,11 +55,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taqi-Dev&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taqi-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taqi-Dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Taqi-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taqi-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 🤝 Connect With Me
