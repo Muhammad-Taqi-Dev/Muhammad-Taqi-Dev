@@ -56,11 +56,10 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taqi-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muhammad-Taqi-Dev&theme=tokyonight&hide_border=true&layout=compact" alt="Wakatime Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Taqi-Dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Taqi-Dev&theme=tokyonight" alt="Profile Summary" />
 </p>
 
 ## 🤝 Connect With Me
