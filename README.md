@@ -11,7 +11,7 @@
 - 🎓 **Final Year Student** pursuing **Computer Science & IT** at **NED University**
 - 💼 **1 year of professional development experience** as **Associate Software Engineer** with hands-on expertise in **backend development** using **NestJS**, **.NET**, and **microservices architecture**
 - 🚀 Currently building **TrackWise** (Final Year Project) - a **product-focused** personal finance platform that solves real-world problems with AI-driven insights
-- 🌱 **Transitioning towards Full Stack Development** with **React** while strengthening backend expertise
+- 🌱 **Transitioning towards Full Stack Development** with **NextJS** while strengthening backend expertise
 - 🤖 Exploring **Agentic AI** for enterprise applications and intelligent automation
 - 💡 Passionate about **building products** that deliver value, with focus on **clean architecture**, **scalable systems**, and **user-centric solutions**
 - 📈 Continuous learner - evolved from Python/Flask foundations to mastering NestJS, .NET, microservices, and cloud technologies
