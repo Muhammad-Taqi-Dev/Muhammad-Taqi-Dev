@@ -25,8 +25,8 @@ name:        Muhammad Taqi Haider
 role:        Associate Software Engineer @ QBS Co.  # promoted within 3 months
 education:   BS Computer Science — NED University (GPA: 3.32)
 status:      Studying + working full-time since before graduation
-focus:       Backend · Distributed Systems · ML Integration · Clean Architecture
-exploring:   Event Sourcing · PostgreSQL Internals · Kafka
+focus:       Backend Performance · Microservices Architecture · ML-Backend Integration
+exploring:   System Design Fundamentals · Clean Architecture · Where AI meets real engineering
 open_to:     Remote & relocation opportunities globally
 contact:     taqihaider591@gmail.com
 ```
