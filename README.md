@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║         Muhammad Taqi Haider — Backend Engineer              ║
-║         Performance Obsessive · CS Final Year @ NED          ║
+║         Performance Obsessive · BS CS Graduate @ NED         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -23,8 +23,8 @@
 ```yaml
 name:        Muhammad Taqi Haider
 role:        Associate Software Engineer @ QBS Co.  # promoted within 3 months
-education:   BS Computer Science — NED University (GPA: 3.32)
-status:      Studying + working full-time since before graduation
+education:   BS Computer Science — NED University · Graduated June 2026 (GPA: 3.32)
+status:      Full-time engineer · Available for remote & relocation opportunities
 focus:       Backend Performance · Microservices Architecture · ML-Backend Integration
 exploring:   System Design Fundamentals · Clean Architecture · Where AI meets real engineering
 open_to:     Remote & relocation opportunities globally
@@ -50,7 +50,7 @@ contact:     taqihaider591@gmail.com
 
 ---
 
-## 🚀 TrackWise — Featured Project
+## 🚀 TrackWise — Capstone Project
 
 > **[track-wise2.vercel.app](https://track-wise2.vercel.app/)** · Final Year Project · Group of 3
 
