@@ -52,7 +52,7 @@ contact:     taqihaider591@gmail.com
 
 ## 🚀 TrackWise — Featured Project
 
-> **[track-wise2.vercel.app](https://track-wise2.vercel.app/)** · Final Year Project · Solo
+> **[track-wise2.vercel.app](https://track-wise2.vercel.app/)** · Final Year Project · Group of 3
 
 AI-powered personal finance platform. Designed, built, and deployed end-to-end.
 
