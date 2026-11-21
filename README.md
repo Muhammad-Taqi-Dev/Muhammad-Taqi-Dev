@@ -1,149 +1,47 @@
-<div align="center">
+# Muhammad Taqi Haider
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║         Muhammad Taqi Haider — Backend Engineer              ║
-║         Performance Obsessive · BS CS Graduate @ NED         ║
-╚══════════════════════════════════════════════════════════════╝
-```
+Backend & full-stack engineer in Karachi · Software Engineer at **Techlogix**
 
-*I get a weird kind of satisfaction when a slow API becomes fast.*
+[Portfolio](https://dev-folio-x.vercel.app) · [LinkedIn](https://linkedin.com/in/taqih1) · [Email](mailto:taqihaider591@gmail.com) · [Resume](https://dev-folio-x.vercel.app/Software_Engineer_Muhammad_Taqi_Resume.pdf)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-taqih1-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/taqih1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dev--folio--x-black?style=flat-square&logo=vercel&logoColor=white)](https://dev-folio-x.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-taqihaider591@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:taqihaider591@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Taqi-Dev&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/Muhammad-Taqi-Dev)
+I build the backend of business software: APIs, auth, background jobs, and the dashboards people use every day. I started as a .NET intern in December 2024 and have since worked in .NET Core, NestJS and now Java Spring Boot.
 
-</div>
+I get a weird kind of satisfaction when a slow API becomes fast.
 
----
+## Now
 
-## $ whoami
+- Building Oracle Banking Digital Experience (OBDX) features in Java Spring Boot for one of Pakistan's leading banks at Techlogix.
+- Keeping [TrackWise](https://track-wise2.vercel.app/), my final-year project, running for its beta users.
 
-```yaml
-name:        Muhammad Taqi Haider
-role:        Associate Software Engineer @ QBS Co.  # promoted within 3 months
-education:   BS Computer Science — NED University · Graduated June 2026 (GPA: 3.4)
-status:      Full-time engineer · Available for remote & relocation opportunities
-focus:       Backend Performance · Microservices Architecture · ML-Backend Integration
-exploring:   System Design Fundamentals · Clean Architecture · Where AI meets real engineering
-open_to:     Remote & relocation opportunities globally
-contact:     taqihaider591@gmail.com
-```
+## Selected results
 
-> **Goal:** Engineer backend systems that perform under real load — not just in theory.
-> I care about latency, correctness, and systems that don't page you at 3am.
-
----
-
-## ⚡ Production Impact
-
-> Numbers from real systems. Not estimates.
-
-| What I Shipped | Stack | Result |
+| What I did | Where | Result |
 |---|---|---|
-| Redis caching on high-traffic monitoring endpoints | NestJS · Redis | **1.6s → <600ms** — 63% drop |
-| Refactored service-layer DB calls across endpoints | PostgreSQL · NestJS | **6–8 → 2–3 hits/request** — 60% reduction |
-| Rebuilt sync PDF pipeline to async | Azure Queue · SignalR | **~1.6s → 400–500ms** — 70% faster |
-| PostGIS spatial indexing on multi-tenant SaaS | PostgreSQL · PostGIS | Geospatial queries **+25% faster** |
-| SBERT + Logistic Regression categorisation model | Flask · Hugging Face | **88% accuracy** in production |
+| Cached third-party responses in Redis behind live monitoring screens | QBS Co. · .NET, Redis | 1.6s → under 600ms ([case study](https://dev-folio-x.vercel.app/work/verseye)) |
+| Built an RBAC admin screen with bulk assignment, replacing a manual process | QBS Co. · .NET, Next.js | 278 permissions managed in bulk |
+| Restructured service logic under Clean Architecture, no breaking API changes | KoderLabs · .NET Core | 6–8 → 2–3 database queries per request |
+| Moved PDF generation to an event-driven pipeline | KoderLabs · Azure Functions, Queue Storage | ~1.6s → 400–500ms per document |
+| Polygon-based map search for real-estate listings | KoderLabs · PostGIS, Google Maps API | 2.1s → 600ms spatial queries |
 
----
+More detail on each project: [dev-folio-x.vercel.app](https://dev-folio-x.vercel.app)
 
-## 🚀 TrackWise — Capstone Project
+## Projects
 
-> **[track-wise2.vercel.app](https://track-wise2.vercel.app/)** · Final Year Project · Group of 3
+- **[TrackWise](https://github.com/Muhammad-Taqi-Dev/TrackWise)**: personal finance app with ML. Final-year project, team of three; I led the backend and ML. 56-endpoint NestJS + PostgreSQL API, a Flask ML service on Hugging Face (88% accuracy categorising transactions, 0.87 AUC-ROC on anomaly detection, Prophet forecasts). [Live](https://track-wise2.vercel.app/) · [Case study](https://dev-folio-x.vercel.app/work/trackwise)
+- **[DevFolioX](https://github.com/Muhammad-Taqi-Dev/DevFolioX)**: my portfolio. Next.js 15, static case-study pages, structured data, and a validated, rate-limited contact API.
+- **[CourseFlow](https://github.com/Muhammad-Taqi-Dev/CourseFlow)**: university timetable generator using Greedy and Backtracking schedulers with conflict detection. Flask + SQLite.
+- **[Mini Compiler](https://github.com/Muhammad-Taqi-Dev/mini-compiler-python)**: lexer, recursive-descent parser, semantic checks and stack-based IR for a small C-like language, from scratch in Python.
 
-AI-powered personal finance platform. Designed, built, and deployed end-to-end.
+## Stack
 
-```
-Backend   →  NestJS · PostgreSQL · 56 endpoints
-ML        →  Flask microservice on Hugging Face Spaces (3 endpoints)
-Frontend  →  Angular PWA
-```
+**Backend:** .NET Core / C#, NestJS / TypeScript, Java / Spring Boot, Flask
+**Data:** PostgreSQL, PostGIS, Oracle, Redis, MySQL
+**Infra:** Docker, Azure (Functions, Queue Storage, Blob), AWS S3, Jenkins, GitHub Actions
+**Patterns:** REST, gRPC, microservices, CQRS, event-driven pipelines, JWT / OAuth2 / RBAC
+**Frontend, when needed:** Next.js, Angular
 
-**Three models in production:**
+## Practice
 
-| Model | Approach | Result |
-|---|---|---|
-| Transaction Categorisation | SBERT + Logistic Regression | **88% accuracy** — surfaced at entry time |
-| Expense Forecasting | Facebook Prophet | Next-month prediction from 3+ months history |
-| Anomaly Detection | Custom classifier | **AUC-ROC: 0.87** — real-time via API response |
+240+ problems on [LeetCode](https://leetcode.com/u/taqi_haider1/) and 50+ on [HackerRank](https://www.hackerrank.com/profile/taqihaider591). Solutions by pattern in [DSA---LeetCode](https://github.com/Muhammad-Taqi-Dev/DSA---LeetCode).
 
-**Engineering decisions worth noting:**
-- ML inference flows through NestJS — Angular never touches the ML service directly
-- Response caching + rate limiting to handle Hugging Face cold start latency
-- Async event-driven email workflows for account verification and password reset
-- Real-time anomaly alerts delivered in API response, rendered by Angular at runtime
-
----
-
-## 🛠️ Stack
-
-**Daily drivers:**
-
-[![Skills](https://skillicons.dev/icons?i=ts,nestjs,dotnet,postgres,redis,docker,azure&theme=dark)](https://skillicons.dev)
-
-**Used in production:**
-
-[![Skills](https://skillicons.dev/icons?i=py,cs,flask,angular,nextjs,aws,git&theme=dark)](https://skillicons.dev)
-
-**Patterns I reach for:**
-
-![REST](https://img.shields.io/badge/REST-0078D4?style=flat-square)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square)
-![Event--Driven](https://img.shields.io/badge/Event--Driven-8B5CF6?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-10B981?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS-0EA5E9?style=flat-square)
-![OAuth2/JWT/RBAC](https://img.shields.io/badge/OAuth2·JWT·RBAC-F59E0B?style=flat-square)
-
----
-
-## 🧩 Problem Solving
-
-Algorithmic challenges as a way to sharpen fundamentals — not just to pass interviews.
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-240%2B_solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Muhammad-Taqi-Dev/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Active-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![DSA Repo](https://img.shields.io/badge/DSA_Repo-Multi--language_Solutions-0e75b6?style=flat-square&logo=github&logoColor=white)](https://github.com/Muhammad-Taqi-Dev/DSA---LeetCode)
-
-<details>
-<summary><b>Categories covered →</b></summary>
-
-<br/>
-
-**Data Structures**
-`Array` `Linked List` `Stack` `Queue` `Binary Tree` `BST` `Hash Table` `Heap` `Matrix`
-
-**Algorithms**
-`Binary Search` `BFS` `DFS` `Dynamic Programming` `Greedy` `Divide & Conquer`
-`Backtracking` `Two Pointers` `Sliding Window` `Prefix Sum` `Bit Manipulation` `Graph`
-
-**Database**
-`SQL 50 (complete)` `Joins` `Aggregations` `Subqueries` `Schema Optimisation`
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Taqi-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Taqi-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=jupyter%20notebook,html" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Taqi-Dev&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
-</div>
-
----
-
-<div align="center">
-
-If you're building something where performance and architecture matter — let's talk.
-
-**[taqihaider591@gmail.com](mailto:taqihaider591@gmail.com) · [LinkedIn](https://linkedin.com/in/taqih1) · [Portfolio](https://dev-folio-x.vercel.app/)**
-
-</div>
+BS Computer Science, NED University (CGPA 3.395), graduated June 2026 while working full-time.
